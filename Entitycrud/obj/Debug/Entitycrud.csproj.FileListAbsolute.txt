@@ -1,0 +1,12 @@
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\bin\Debug\Entitycrud.exe.config
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\bin\Debug\Entitycrud.exe
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\bin\Debug\Entitycrud.pdb
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\bin\Debug\EntityFramework.dll
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\bin\Debug\EntityFramework.xml
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\obj\Debug\Entitycrud.csprojAssemblyReference.cache
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\obj\Debug\Entitycrud.csproj.CoreCompileInputs.cache
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\obj\Debug\Entitycrud.csproj.CopyComplete
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\obj\Debug\Entitycrud.exe
+C:\Users\910184\source\repos\Entitycrud\Entitycrud\obj\Debug\Entitycrud.pdb
